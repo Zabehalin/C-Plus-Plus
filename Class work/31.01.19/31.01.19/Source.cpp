@@ -195,7 +195,7 @@ void Rad(int **arr, int ROW, int COL)
 Даний масив чисел. Написати функцію, яка сортує масив по зростанню або по спаданню, в залежності від третього параметра функції. 
 Якщо він рівний 0, сортування йде по спаданню, якщо 1, тоді по зростанню. Перші 2 параметра функції - це масив і його розмір, третій параметр по замовчуванню рівний 1. */
 
-#include <iostream>
+/*#include <iostream>
 #include <ctime>
 using namespace std;
 void Fill(int arr[], const int ROW);
@@ -256,4 +256,4 @@ void SortBuble(int arr[], const int ROW)
 		}
 		cout << endl;
 	}
-}
+}*/
