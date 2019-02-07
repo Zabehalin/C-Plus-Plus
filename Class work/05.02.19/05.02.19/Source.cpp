@@ -277,6 +277,7 @@ void Print(int arr[], const int MAS)
 	}
 	cout << endl;
 }
+void 
 
 
 
