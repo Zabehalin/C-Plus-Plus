@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\zabehalin\desktop\c++\class work\19.03.19\19.03.19\source.cpp(197): warning C4018: '<': signed/unsigned mismatch
+c:\users\zabehalin\desktop\c++\class work\19.03.19\19.03.19\source.cpp(209): warning C4018: '<': signed/unsigned mismatch
+c:\users\zabehalin\desktop\c++\class work\19.03.19\19.03.19\source.cpp(211): warning C4553: '==': result of expression not used; did you intend '='?
+  19.03.19.vcxproj -> C:\Users\Zabehalin\Desktop\C++\Class work\19.03.19\Debug\19.03.19.exe
