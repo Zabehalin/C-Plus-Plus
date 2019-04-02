@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\zabehalin\desktop\c++\class work\02.04.19\02.04.19\source.cpp(83): error C2760: syntax error: unexpected token ')', expected ':'
+c:\users\zabehalin\desktop\c++\class work\02.04.19\02.04.19\source.cpp(83): error C2059: syntax error: ')'
+  c:\users\zabehalin\desktop\c++\class work\02.04.19\02.04.19\source.cpp(96): note: see reference to function template instantiation 'auto ABBC<int,int,int>(T1,T2,T3)' being compiled
+          with
+          [
+              T1=int,
+              T2=int,
+              T3=int
+          ]
