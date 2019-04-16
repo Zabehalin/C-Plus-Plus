@@ -23,6 +23,7 @@ void Menyu(int * arr, int sizearr,int &s )
 	}
 	else if (Vybir == 3)
 	{
+		s = 0;
 		NewSymvArr(arr, sizearr);
 		PrintArr(arr, sizearr);
 	}

@@ -1,0 +1,2 @@
+﻿  Source.cpp
+c:\users\zabehalin\desktop\c++\class work\16.04.19\16.04.19\source.cpp(81): error C4700: uninitialized local variable 'person' used
