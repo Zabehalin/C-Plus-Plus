@@ -45,15 +45,7 @@ void Menyu(string User)
 
 void Avtoriz(string Login, string Password,string User)
 {
-	ifstream readFile;
-	readFile.open(User);
-	string data;
-	while (!readFile.eof()) {
-		//readFile >> data;
-		getline(readFile, data);
-		cout << data << endl;
-	}
-readFile.close();
+	string s;
 }
 
 
